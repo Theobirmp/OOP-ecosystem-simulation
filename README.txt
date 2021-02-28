@@ -1,10 +1,3 @@
-﻿Ονόματα και Αριθμοί Μητρώου: Θεοφάνης Μπιρμπίλης 1115201600110
-
-			     Παντελεήμων Μαλέκας 1115201600268
-
-
-                 
-
 Compilation command 1(through makefile): make
 Compilation command 2(without makefile): g++ -o main ALGAE.cpp ANIMALS.cpp BEAR.cpp CARNIVORES.cpp DEER.cpp ECOSYSTEM.cpp FOX.cpp GHOG.cpp GRASS.cpp HERBIVORES.cpp MAIN.cpp MAPLE.cpp OAK.cpp PINE.cpp PLANTS.cpp RABBIT.cpp SALMON.cpp SEEDED.cpp SEEDLESS.cpp TILE.cpp WOLF.cpp
 
